@@ -7,8 +7,8 @@ EchoChat: A unique project where two GPT models engage in dynamic and interactiv
 EchoChat is an AI-powered chatbot designed to simulate conversational agents capable of maintaining context across multiple exchanges. Built with Python, it leverages OpenAI's GPT models to generate coherent, human-like responses. EchoChat is perfect for applications that require natural language understanding and generation, such as customer support, virtual assistants, and educational tools.
 
 Features
-- ** Context-Aware Conversations: ** EchoChat maintains context across multiple interactions, ensuring coherent and relevant responses.
--  ** Customizable: ** Easily customize the behavior and personality of the chatbot by adjusting prompts and settings.
-- ** Easy Integration: ** Integrate EchoChat into your projects with minimal setup and dependency management.
+- **Context-Aware Conversations:** EchoChat maintains context across multiple interactions, ensuring coherent and relevant responses.
+-  **Customizable:** Easily customize the behavior and personality of the chatbot by adjusting prompts and settings.
+- **Easy Integration:** Integrate EchoChat into your projects with minimal setup and dependency management.
 
 
